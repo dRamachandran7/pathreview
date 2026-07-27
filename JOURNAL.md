@@ -53,3 +53,18 @@ There are large amount of people working on this issue, but since it is a docume
 **Is the scope realistic for Weeks 8–9?**
 
 Yes. All I need to do is understand the API structure and document it.
+
+
+## Week 8 — Reproduction & solution planning
+
+**Reproduction commit link:** This is a documentation gap -- nothing to reproduce.
+
+**Reproduction summary:**
+Seeing as my selected issue is a documentation one, there isn't really anything to reproduce.
+
+**PLAN.md link:** [link to PLAN.md in your fork]
+
+**Walkthrough video (recommended):** [link to your Loom video, ≤2 min — recommended, not graded]
+
+**Blockers or open questions:**
+[Anything you're still uncertain about going into Week 9, or leave blank]
