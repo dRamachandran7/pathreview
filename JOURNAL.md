@@ -62,7 +62,7 @@ Yes. All I need to do is understand the API structure and document it.
 **Reproduction summary:**
 Seeing as my selected issue is a documentation one, there isn't really anything to reproduce.
 
-**PLAN.md link:** [link to PLAN.md in your fork]
+**PLAN.md link:** https://github.com/dRamachandran7/pathreview/blob/fix/89-API-reference-doc-missing-POST-profiles-schema/PLAN.md
 
 **Walkthrough video (recommended):** [link to your Loom video, ≤2 min — recommended, not graded]
 
