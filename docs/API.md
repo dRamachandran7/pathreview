@@ -16,12 +16,14 @@ Base URL: `http://localhost:8000`
 ### Profiles
 
 `POST /profiles` — Create a profile with resume and GitHub username.
+
 `GET /profiles/{profile_id}` — Retrieve a profile.
 `DELETE /profiles/{profile_id}` — Delete a profile and associated data.
 
 ### Reviews
 
 `POST /reviews` — Request a new portfolio review for a profile.
+
 `GET /reviews/{review_id}` — Retrieve a completed review.
 `GET /reviews` — List reviews for the authenticated user (paginated).
 
