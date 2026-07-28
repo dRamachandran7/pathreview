@@ -18,7 +18,7 @@ The main file involved here is API.md, however in a broader sense, api/routes/pr
 There aren't really any inputs or outputs since this issue is strictly documentation.
 
 ### Risks & unknowns
-The only real risk here is incorrect documentation, which won't affect any other file, but might create some confusion for someone reading through the codebase.
+The only real risk here is incorrect documentation, which won't affect any other file, but might create some confusion for someone reading through the codebase. For example, a new developer might be unclear on how exactly the API responds, and won't have a concrete documentation to use to clarify.
 
 ### Edge cases
-When documenting examples, we should make sure that we have a representative idea of the response. We should also make sure that we explain each field in the documentation, so that all edge cases are documented.
+When documenting examples, we should make sure that we have a representative idea of the response. We should also make sure that we explain each field in the documentation, so that all edge cases are documented. For instance, we should note that the github profile, resume, and portfolio fields can all possibly be None.
