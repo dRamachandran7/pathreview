@@ -57,10 +57,10 @@ Yes. All I need to do is understand the API structure and document it.
 
 ## Week 8 — Reproduction & solution planning
 
-**Reproduction commit link:** This is a documentation gap -- nothing to reproduce.
+**Reproduction commit link:** [link to comment commit](https://github.com/dRamachandran7/pathreview/commit/2edeee5972e5cf60b9769c7448321dc74e57d057)
 
 **Reproduction summary:**
-Seeing as my selected issue is a documentation one, there isn't really anything to reproduce.
+Upon inspecting the schemas, we can see that the two endpoints described do indeed exist, and upon inspecting API.md, we can see that they are not documented. This is the gap we need to fill.
 
 **PLAN.md link:** https://github.com/dRamachandran7/pathreview/blob/fix/89-API-reference-doc-missing-POST-profiles-schema/PLAN.md
 
