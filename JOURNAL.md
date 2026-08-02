@@ -68,3 +68,39 @@ Upon inspecting the schemas, we can see that the two endpoints described do inde
 
 **Blockers or open questions:**
 [Anything you're still uncertain about going into Week 9, or leave blank]
+
+
+## Week 9 — Solution building & PR submission
+
+### Check-in 1 (mid-week)
+
+**Current progress:**
+
+So far, I've gone through schemas/profile.py, and understood the structure of the response json, and the constraints on each of the parameters
+
+**Next steps:**
+
+For the rest of the week, I'll be documenting the actual response structure, along with coming up with good examples to provide for the response.
+
+**Blockers:**
+[Anything slowing you down? Or leave blank.]
+
+---
+
+### Check-in 2 (end of week)
+
+**PR link:** https://github.com/ascherj/pathreview/pull/579
+
+**Branch:**  fix/89-API-reference-doc-missing-POST-profiles-schema
+
+**What you built:**
+
+I added documentation for the POST /profiles API endpoint. I explained each parameter, and provided examples.
+
+**Tests added or updated:**
+
+No test files were added or updated since this is a documentation change, but no new failures were introduced.
+
+**Self-review confirmation:** [x] make check passes  [x] make test-unit passes
+
+**Draft PR feedback received from:** none yet
