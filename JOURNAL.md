@@ -101,6 +101,50 @@ I added documentation for the POST /profiles API endpoint. I explained each para
 
 No test files were added or updated since this is a documentation change, but no new failures were introduced.
 
+Before and after my changes, 53 tests failed and 375 passed.
+
 **Self-review confirmation:** [x] make check passes  [x] make test-unit passes
 
 **Draft PR feedback received from:** none yet
+
+## Week 10 — Iteration & reflection
+
+### Reviewer feedback
+
+**Feedback received:** [x] Yes  [ ] No — still awaiting review
+
+**Summary of feedback:**
+
+The reviewer mentioned a couple things:
+
+- Considering changing the PR title to something more descriptive, mentioning the change and issue reference
+- Give more info on the changes made in the PR description so a reviewer does not have to check the diff. 
+- My commit messages didn't exactly follow the guidelines, so I could have rebased to fix that.
+
+**How you responded:**
+
+I updated the PR title, making it more descriptive as mentioned, changing it to 'Document POST /profiles response schema (#89)'. I also updated my PR description to say exactly what file was changed and how it was changed.
+
+---
+
+### Reflection
+
+**What was harder than you expected?**
+
+Understanding the app structure, and knowing where to look to find the api endpoint and schema took some time. It took more time to then formulate an example that was accurate and represented the app properly.
+
+**What did you learn about working in a large codebase?**
+
+I learned about following the contributing rules closely, making sure to follow the structure of the codebase. I recieved feedback relating to my adherence to these rules, such as the feedback on the commit messages.
+
+**How did AI tools help — and where did they fall short?**
+
+AI did help me get a good place to start, summarizing the app structure and telling me where to find the schemas. It also helped me understand how they were used. However, when it comes to documentation, I found it useful to write it myself to make sure it made sense. 
+
+**What would you do differently if you started over?**
+
+I would've picked a larger issue. This issue was actually about 20 lines of documentation, and I wish I had picked something more interesting to work on.
+
+**What are you most proud of from this module?**
+
+I'm proud that I was able to navigate a large codebase and successfuly add something to it.
